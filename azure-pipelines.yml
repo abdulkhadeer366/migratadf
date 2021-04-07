@@ -6,9 +6,9 @@ pool:
 
 variables:
   subscription: Free Trial(610d8937-ef68-4887-b3f8-986ebe4fdf07)
-  resourceGroup: Khadeer-varian-RG
-  storageAccount: storagevariandest
-  container: newcontainer
+  resourceGroup: testrgshiva
+  storageAccount: testshivastorageone
+  container: sourcecontainer
   tfstateFile: terraform.tfstate
   anyTfChanges: false
 
